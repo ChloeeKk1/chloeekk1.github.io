@@ -161,7 +161,7 @@ body {
 }
 
 .legend-color.occupied {
-    background-color: rgba(76, 175, 80, 0.8);
+    background-color: rgba(252, 169, 184, 0.8);
 }
 
 @media (max-width: 1000px) {
